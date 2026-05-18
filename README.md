@@ -4,6 +4,8 @@ A clean, responsive Tic Tac Toe game built with **React 19** and **Vite**. Two p
 
 ## Demo
 
+Live demo - https://tic-tac-toe-one-khaki-72.vercel.app
+or
 Run it locally with the steps below — the game launches at `http://localhost:5173`.
 
 ## Features
