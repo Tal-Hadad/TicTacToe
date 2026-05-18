@@ -13,10 +13,8 @@ export default function Tictactoe() {
   } = useTictactoe();
 
   const [isModalOpen, setIsModalOpen] = useState(false);
-  // const [hoveredIndex, setHoveredIndex] = useState(null);
 
   const message = statusMessage();
-  // const hoverValue = isXNext ? "X" : "O";
 
   useEffect(() => {
     if (gameOver) {
